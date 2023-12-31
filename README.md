@@ -18,3 +18,7 @@ Score Display: Upon completion, the app reveals your score, providing instant gr
 🌚 **Dark Mode:**
 ![image](https://github.com/NadiaRajpoot/CampusCoderProject-QuizApp/assets/101450968/8914c732-7044-46a7-8b36-ab33bfec9df0)
 
+---
+![image](https://github.com/NadiaRajpoot/CampusCoderProject-QuizApp/assets/101450968/9c3a6f2f-9622-4e6d-a2eb-8f44e48b37c4)
+
+
